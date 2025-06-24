@@ -1,4 +1,4 @@
-package com.github.gman2605.chess_app;
+package gman2605.chess;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
